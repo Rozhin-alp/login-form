@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to bottom right, #007bff, #6c757d);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: 300px;
+}
